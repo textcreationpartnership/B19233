@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles by the grace of God King of England, Scotland, France and Ireland, Defender of the Faith,&amp;c. To all parsons, vicars and curates, and also to all justices of the peace, majors, shreiffes, bailiffes, constables, church-wardens, headburroughs, and to all officers of cities, burroughs and townes corporate, and to all others, our officers, ministers, and subjects whatsoever they be,... that the upper town of Bridgnorth aforesaid, was set on fire, within a few days after, the forces raised by the said Lords and Commons under the command of the said Committee of safety for the said county had entered the said towne,...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19233</idno><idno type="EEBO-CITATION">99888954</idno>
+  <idno type="VID">194020</idno>
+  <idno type="EEBO-PROQUEST">2240901787</idno>
+  
+            <idno type="STC">Wing C2825A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[218]</idno>
+            <idno type="STC">ESTC R232571</idno>
+            <idno type="PROQUEST">ocm99888954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888954e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194020)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[218])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles by the grace of God King of England, Scotland, France and Ireland, Defender of the Faith,&amp;c. To all parsons, vicars and curates, and also to all justices of the peace, majors, shreiffes, bailiffes, constables, church-wardens, headburroughs, and to all officers of cities, burroughs and townes corporate, and to all others, our officers, ministers, and subjects whatsoever they be,... that the upper town of Bridgnorth aforesaid, was set on fire, within a few days after, the forces raised by the said Lords and Commons under the command of the said Committee of safety for the said county had entered the said towne,...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1647[i.e. 1648].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms at head; initial, head- and foot-lines of type-ornaments.</note>
+                  <note>The king's proclamation establishing a charitable collection to relieve the victims of the fire in Bridgnorth, Shropshire.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Bridgnorth (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:194020:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>crowned blazon or coat of arms of Charles II</figDesc>
+                  <head>C. R.</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES by the Grace of GOD King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+               <salute>To all Parsons, Vicars and Curates, and also to all Justices of the Peace, Majors, Shreiffes, Bai<g ref="char:EOLhyphen"/>liffes, Constables, Church-wardens, Headburroughs, and to all Officers of Cities, Burroughs and Townes Corporate, and to all others, Our Officers, Ministers, and Subjects whatsoever they be, (as well within Liberties as without) to whom these Presents shall come greeting —</salute>
+            </opener>
+            <p>Whereas the Lords and Commons now Assembled in Our Parliament of <hi>England,</hi> have credibly been informed, (as well by the humble supplication, and Petition of the Inhabitants of the Towne of <hi>Bridgnorth,</hi> in the County of <hi>Salop,</hi> as also by a Certificate under the hands of Our trusty and wel-beloved Subjects; <hi>William Pierepont, Humphry Mackworth, Robert Clive, Robert Charlton, Harcourt Leighton, John Thinne, Thomas Nichols, Samuel More, Andrew Lloyd</hi> and <hi>Thomas Hunt</hi> Esquires, all of them Persons nominated and appointed by authority of the said Lords and Commons to be a Committee for the safety of the said County) That the upper Town of <hi>Bridgnorth</hi> aforesaid, was set on fire, within few dayes after, the Forces raised by the said Lords and Commons under the command of the said Committee of safety for the said County had entred the said Towne, and by the rage and violence of the said fire, the upper Towne was destroyed, and also the Church, Colledge and Almse<g ref="char:EOLhyphen"/>houses, utterly spoyled and ruinated; And further, that the Inhabitants of the said Town, had most of their goods burnt and consumed, to their damage and losse of ninety thousand pounds Sterling or thereabouts, and have therefore made it their humble request, that such releife might be afforded to them, as to others in like case hath been granted by way of Collection, of the charity of good people, within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales;</hi> Which request tending onely to the glory of God, and the releife of so ma<g ref="char:EOLhyphen"/>ny of Our poore undone and distressed Subjects, hath beene by the said Lords and Commons approved of, not doubting, but that all good Christians, and Our loving Subjects well weighing the want and calamity of the Inhabitants and poore Almes-people of the Towne will be ready and willing to extend their liberall Contribution towards the furtherance of so godly and pious a work, as the rebuilding of the said Town, and repairing of the said Church, Colledge and Almshouses.— Know you therefore that of Our speciall Grace, and by the advice and consent of Our Lords and Commons now Assembled in Parliament; We have given and granted, and by these Our Letters Patents do give and grant unto Our true and loyall Subjects, the Inhabitants of <hi>Bridgnorth,</hi> and to their Deputy and Deputies, the Bearer and Bearers hereof (under the Hands and Seales of the Bayliffes of the said Towne for the time being in that behalfe authorized) full power licence and authority to aske, gather, receive, and take the almes and charitable benevolence of all our loving subjects whatsoever, inhabiting within any of Our Cities, Townes-corporate, priviledged Places, Parishes, Villages, and in all other places whatsoever, within Our said Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> toward the performance of so godly, charitable and religious a work;— Where<g ref="char:EOLhyphen"/>fore We will and command you, and every of you, that at such time and times, as the said inhabitants, or their Deputy, or Depu<g ref="char:EOLhyphen"/>ties, the Bearer or Bearers hereof (authorized as aforesaid) shall come and repaire to any of your Churches or Chappels, or any other places, to aske and receive the gratuity and charitable benevolence of our said subjects, quietly to permit and suffer them so to do without any manner of your let or contradiction.—And you the said Parsons, Vicars, and Curates for the better stirring up a charitable devotion deliberately to publish and declare the tenure of these Our Letters Patents, or the Copie or Breise thereof, unto Our said subjects upon some Sabbath-day or Fast-day when the same shall be tendred unto you, exhorting and perswading them to extend their liberall contribu<g ref="char:EOLhyphen"/>tion to so necessary and charitable a deed.—And you the Church-wardens, and other Church-officers of every Parish, where such Collection is to be made, (as afore said) to collect and gather the Almes and charitable Benevolence, of all our loving subjects, as well strangers as others, and what shall be by you so gathered, to be by the Ministers and your selves endorsed on the backe side of the Breife of these Our Letters Patents, in words at length and not in figures; and the summe and summes of money so gathered and endorsed, to deliver to the Bearer or Bearers of these Our Letters Patents authorized as aforesaid, and to no other person, when as thereunto you shall be required. And Our will and pleasure is, that for the performance hereof according to the true intent and meaning of these Our Letters Patents, We do here<g ref="char:EOLhyphen"/>by constitute and appoint Our trusty and welbeloved subject <hi>Gilbert Walden</hi> the present Minister of the said Town of <hi>Bridgnorth,</hi> and the said Mi<g ref="char:EOLhyphen"/>nister of the said Town for the time being, to be the sole Treasurer for the receiving and issuing forth of all such summe and summes of money as shall by vertue of these Presents be collected and gathered as aforesaid, and that the persons herein before named, being the Comittee of safety for the said County or any two of them (with the said <hi>Gilbert Walden</hi> Minister of <hi>Bridgnorth</hi>) from time to time, do order and dis<g ref="char:EOLhyphen"/>pose the disbursments, employments and accounts of all and every the moneys aforesaid; In witnesse whereof We have caused these our Letters to be made Patents for the space of one whole year next after the date hereof to endure and no longer; Witnesse Our selfe at <hi>Westminster,</hi> the XVIII. day of January, in the three and twentieth year of Our reigne,</p>
+            <closer>
+               <dateline>
+                  <date>Anno Dom. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
